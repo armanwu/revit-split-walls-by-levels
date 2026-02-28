@@ -1,0 +1,6 @@
+E:\core\learning\revitaddin\revit-split-walls-by-levels\RevitSplitWallsByLevels\bin\Debug\RevitSplitWallsByLevels.dll
+E:\core\learning\revitaddin\revit-split-walls-by-levels\RevitSplitWallsByLevels\bin\Debug\RevitSplitWallsByLevels.pdb
+E:\core\learning\revitaddin\revit-split-walls-by-levels\RevitSplitWallsByLevels\obj\Debug\RevitSplitWallsByLevels.csproj.AssemblyReference.cache
+E:\core\learning\revitaddin\revit-split-walls-by-levels\RevitSplitWallsByLevels\obj\Debug\RevitSplitWallsByLevels.csproj.CoreCompileInputs.cache
+E:\core\learning\revitaddin\revit-split-walls-by-levels\RevitSplitWallsByLevels\obj\Debug\RevitSplitWallsByLevels.dll
+E:\core\learning\revitaddin\revit-split-walls-by-levels\RevitSplitWallsByLevels\obj\Debug\RevitSplitWallsByLevels.pdb

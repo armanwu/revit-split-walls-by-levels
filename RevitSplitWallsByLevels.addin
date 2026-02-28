@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>SplitWallsBySelectedLevels</Name>
+    <Assembly>C:\MyRevitAddins\RevitSplitWallsByLevels.dll</Assembly>
+    <AddInId>8D83C886-B739-4ACD-A9DB-2D1C21B2F2AA</AddInId>
+    <FullClassName>SplitWallsByLevels.CmdSplitWallsByLevels</FullClassName>
+    <VendorId>ARMN</VendorId>
+    <VendorDescription>Split basic walls by selected levels</VendorDescription>
+  </AddIn>
+</RevitAddIns>
